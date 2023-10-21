@@ -11,4 +11,4 @@ ANALYZER_NAME: "srv-ml-class-analyzer"
 INCLUDE_MIME_TYPES: "application/json,text/html"
 EXCLUDE_EXTENSIONS: "png,jpg,gif,webp,doc,pdf,exe,mp3,avi"
 SCORE_THRESHOLD: 0.6
-GIT_RECOGNIZERS_REPO: "https://github.com/e-razdumina/test_recs.git"
+GIT_REPO: "https://github.com/e-razdumina/test_recs.git"
