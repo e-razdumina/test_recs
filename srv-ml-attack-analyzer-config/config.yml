@@ -14,7 +14,7 @@ MODELS: {"body": "body_model.pkl",
          "url": "url_model.pkl",
          "headers": "headers_model.pkl"}
 TOKENIZER: "tokenizer_data.json"
-BATCH_LEN: "50"
+BATCH_LEN: "100"
 ANALYZER_NAME: "srv-ml-attack-analyzer"
 THRESHOLD: "0.5"
 GIT_REPO: "https://github.com/e-razdumina/test_recs.git"
