@@ -14,7 +14,7 @@ VECTOR: "vectorizer_char_token.pkl"
 #          "url": "url_model.pkl",
 #          "headers": "headers_model.pkl"}
 MODELS: {"gpt": "quantized_model.onnx"}
-TOKENIZER: "tokenizer_data.json"
+TOKENIZER: "tokenizer_data_gpt.json"
 BATCH_LEN: "200"
 ANALYZER_NAME: "srv-ml-attack-analyzer"
 THRESHOLD: "0.5"
